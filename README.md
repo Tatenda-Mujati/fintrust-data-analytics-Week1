@@ -1,2 +1,2 @@
 # fintrust-data-analytics-Week1
-AnalystLab Africa Experience Lab- FinTrust Digital Bank, Week 1, Data Analytics track
+Week 1 report: business understanding, data profiling, 8 KPIs, dashboard wireframe, Week 2–4 plan
